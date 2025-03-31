@@ -1,4 +1,4 @@
-## Hi there 👋
+## Olá 👋
 
 <!--
 **EmilySouza22/EmilySouza22** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -15,4 +15,4 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-![Meu GIF](totoro.gif)
+![:)](/gif/giphy.gif)
