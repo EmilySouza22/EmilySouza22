@@ -1,4 +1,4 @@
-## Olá 👋
+## Seja bem vindo :P
 
 <!--
 **EmilySouza22/EmilySouza22** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,5 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+## apenas um gif
+![Um gif do totoro :)](/gif/giphy.gif)
 
-![:)](/gif/giphy.gif)
+
