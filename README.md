@@ -14,7 +14,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-## apenas um gif
 ![Um gif do totoro :)](/gif/giphy.gif)
 
 
