@@ -1,5 +1,5 @@
 ## Olá,
-⚡Sou a Emily! 
+⚡Sou a Emily! \n
 🧩 Tenho 20 anos
 💬 Sou estudante do curso técnico de ADS no SENAI.
 
