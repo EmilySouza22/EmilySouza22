@@ -1,5 +1,5 @@
-## Seja bem vindo,
-Sou a Emily! Estudante de tecnologias...
+## Olá,
+⚡ Sou a Emily! Tenho 20 anos e sou estudante do curso técnico de ADS no SENAI.
 
 <!--
 **EmilySouza22/EmilySouza22** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
