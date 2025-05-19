@@ -1,5 +1,8 @@
 ## Olá,
-⚡ Sou a Emily! Tenho 20 anos e sou estudante do curso técnico de ADS no SENAI.
+⚡Sou a Emily! 
+🧩 Tenho 20 anos
+💬 Sou estudante do curso técnico de ADS no SENAI.
+
 <img src="https://media1.tenor.com/m/XPRG-4ujVMIAAAAd/cat-work-in-progress.gif" width="100" alt="GIF de gato">
 
 <!--
