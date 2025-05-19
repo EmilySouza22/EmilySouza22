@@ -7,6 +7,8 @@
 
 <img src="https://media1.tenor.com/m/XPRG-4ujVMIAAAAd/cat-work-in-progress.gif" width="100" alt="GIF de gato">
 
+<img src="https://media1.tenor.com/m/4DEF84bYG2AAAAAd/stray-programming.gif" width="100" alt="GIF do jogo Stray">
+
 <!--
 **EmilySouza22/EmilySouza22** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
