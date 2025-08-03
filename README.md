@@ -10,14 +10,16 @@ I am a Systems Analysis and Development student at SENAI. I am constantly learni
 ##
 
 <div >
-  <img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=emilysouza22&layout=donut&hide_border=true&title_color=8A2BE2&text_color=8e7cc3&bg_color=0d1117" />
-  <img width="50%" height="400px" src="https://github-readme-stats.vercel.app/api?username=emilysouza22&show_icons=true&count_private=true&hide_border=true&title_color=8A2BE2&icon_color=4B0082&text_color=8e7cc3&bg_color=0d1117" /> 
+  <img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=emilysouza22&layout=donut&hide_border=true&title_color=9966CC&text_color=8e7cc3&bg_color=0d1117" />
+  <img width="50%" height="400px" src="https://github-readme-stats.vercel.app/api?username=emilysouza22&show_icons=true&count_private=true&hide_border=true&title_color=9966CC&icon_color=4B0082&text_color=8e7cc3&bg_color=0d1117" /> 
 </div>
 
 ##
 
 ### 💬 Social Media
 
-[![Instagram](https://img.shields.io/badge/instagram-%23000000.svg?style=for-the-badge&logo=instagram&logoColor=8A2BE2&color:FFF)](https://www.instagram.com/izwmy/)
-[![Gmail](https://img.shields.io/badge/gmail-%23000000.svg?style=for-the-badge&logo=gmail&logoColor=8A2BE2&color:FFF)](mailto:emilyseafonso@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/linkedIn-000?style=for-the-badge&logo=linkedin&logoColor=8A2BE2&color:FFF)](https://www.linkedin.com/in/emilydesouza22/)
+[![Instagram](https://img.shields.io/badge/Instagram-555555?style=for-the-badge&logo=instagram&logoColor=7E5ABF)](https://www.instagram.com/izwmy/)
+[![Gmail](https://img.shields.io/badge/Gmail-555555?style=for-the-badge&logo=gmail&logoColor=7E5ABF)](mailto:emilyseafonso@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-555555?style=for-the-badge&logo=linkedin&logoColor=8A2BE2)](https://www.linkedin.com/in/emilydesouza22/)
+![Profile Views](https://komarev.com/ghpvc/?username=emilysouza22&style=for-the-badge&color=7E5ABF)
+
