@@ -1,4 +1,4 @@
-<h2>👋 Hello World, I'm Emily - 📍BR </h2>
+<h2>👋 Hello World, I'm Emily -📍BR </h2>
 I am a Systems Analysis and Development student at SENAI. I am constantly learning to enhance my skills. Currently, I am focusing on JavaScript and Databases, and seeking a developer internship.
 
 ### 🛠️ Language & Tools
