@@ -11,7 +11,7 @@ I am a Systems Analysis and Development student at SENAI. I am constantly learni
 
 <div>
   <img src="https://github-readme-stats.vercel.app/api?username=emilysouza22&show_icons=true&count_private=true&hide_border=true&title_color=9966CC&icon_color=4B0082&text_color=8e7cc3&bg_color=0d1117" width="500" />
-  <img width="38%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=emilysouza22&layout=donut&hide_border=true&title_color=9966CC&text_color=8e7cc3&bg_color=0d1117" />
+  <img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=emilysouza22&layout=donut&hide_border=true&title_color=9966CC&text_color=8e7cc3&bg_color=0d1117" />
 </div>
 
 ##
