@@ -20,6 +20,6 @@ I am a Systems Analysis and Development student at SENAI. I am constantly learni
 
 [![Instagram](https://img.shields.io/badge/Instagram-555555?style=for-the-badge&logo=instagram&logoColor=7E5ABF)](https://www.instagram.com/izwmy/)
 [![Gmail](https://img.shields.io/badge/Gmail-555555?style=for-the-badge&logo=gmail&logoColor=7E5ABF)](mailto:emilyseafonso@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-555555?style=for-the-badge&logo=invision&logoColor=8A2BE2)](https://www.linkedin.com/in/emilydesouza22/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-555555?style=for-the-badge&logo=invision&logoColor=7E5ABF)](https://www.linkedin.com/in/emilydesouza22/)
 ![Profile Views](https://komarev.com/ghpvc/?username=emilysouza22&style=for-the-badge&color=7E5ABF)
 
