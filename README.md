@@ -1,26 +1,20 @@
-## Olá,
-⚡Sou a Emily! 
+<h2> 👋 Hello World, I'm Emily - BR </h2>
 
-🧩 Tenho 20 anos
+<p align="left"> 💬 I'm a student of Systems Analysis and Development at SENAI. I am constantly learning to improve my skills. Currently, I am focused on studying JavaScript and Databases, and I am seeking an internship as a developer. </p>
 
-💬 Sou estudante do curso técnico de ADS no SENAI.
+### 🛠️ Language & Tools
 
-<img src="https://media1.tenor.com/m/4DEF84bYG2AAAAAd/stray-programming.gif" width="280" height="150" alt="GIF do jogo Stray">
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=js,html,css,nodejs,git,vscode,figma" />
+</div>
 
-<!--
-**EmilySouza22/EmilySouza22** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<div align="center">  
+  <img width="50%" height="200px" src="https://github-readme-stats.vercel.app/api?username=emilysouza22&show_icons=true&count_private=true&hide_border=true&title_color=8A2BE2&icon_color=4B0082&text_color=48D1CC&bg_color=0d1117" /> 
+  <img width="40%" height="200px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=emilysouza22&layout=compact&hide_border=true&title_color=8A2BE2&text_color=48D1CC&bg_color=0d1117" />
+</div>
 
-Here are some ideas to get you started:
+### Social Media
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-
-
-
+[![LinkedIn](https://img.shields.io/badge/-linkedIn-000?style=for-the-badge&logo=linkedin&logoColor=FF00F6&color:FFF)](https://www.linkedin.com/in/emilydesouza22/)
+[![Instagram](https://img.shields.io/badge/instagram-%23000000.svg?style=for-the-badge&logo=instagram&logoColor=FF00F6&color:FFF)](https://www.instagram.com/izwmy/)
+[![Gmail](https://img.shields.io/badge/gmail-%23000000.svg?style=for-the-badge&logo=gmail&logoColor=FF00F6&color:FFF)](mailto:emilyseafonso@gmail.com)
