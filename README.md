@@ -4,7 +4,7 @@ I am a Systems Analysis and Development student at SENAI. I am constantly learni
 ### 🛠️ Language & Tools
 
 <div align="left">
-  <img src="https://skillicons.dev/icons?i=js,html,css,nodejs,git,vscode,figma" />
+  <img src="https://skillicons.dev/icons?i=js,html,css,nodejs,mysql,git,vscode,figma" />
 </div>
 
 ##
