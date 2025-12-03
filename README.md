@@ -7,10 +7,9 @@ I am a Systems Analysis and Development student at SENAI. I am constantly learni
   <img src="https://skillicons.dev/icons?i=js,html,css,nodejs,mysql,git,vscode,figma" />
 </div>
 
-##
 
 <div>
-  [![Emily's GitHub stats](https://github-readme-stats-five-mauve-14.vercel.app/api?username=EmilySouza22)](https://github.com/anuraghazra/github-readme-stats)
+  <!-- [![Emily's GitHub stats](https://github-readme-stats-five-mauve-14.vercel.app/api?username=EmilySouza22)](https://github.com/EmilySouza22/github-readme-stats) -->
 </div>
 
 ##
